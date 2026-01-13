@@ -1,4 +1,4 @@
-# 🏨 Hotel Analytics & Revenue Optimization (Power BI)
+# 🏨  Hotel Analytics & Revenue Optimization (Power BI)
 
 This project analyzes hotel operational and financial performance using a structured **Star Schema data model** and **Power BI dashboards**.  
 The objective is to understand **occupancy trends, revenue drivers, guest behavior.
